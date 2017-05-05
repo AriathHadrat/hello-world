@@ -1,2 +1,3 @@
 # hello-world
-Just another day
+
+Just another day trying to learn new stuff.
